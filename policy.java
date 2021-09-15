@@ -1,1 +1,3 @@
-policy{}
+policy{
+fund(){}
+}
